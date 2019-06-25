@@ -1,4 +1,4 @@
-# Naive-Weather-Prediction-Model
+# Naive Weather Prediction Model
 The purpose of this repository is to investigate and predict the weather in Burlington, VT using various ensemble methods.  The basic workflow was to call the Dark Sky API and build a set of weather data over the past 2 years.  Using that data I set out to predict the weather given the features collected.
 
 Table of Contents
