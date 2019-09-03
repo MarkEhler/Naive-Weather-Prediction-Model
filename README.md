@@ -1,5 +1,5 @@
 # Naive Weather Prediction Model
-The purpose of this repository is to investigate and predict the weather in Burlington, VT using various ensemble methods.  The basic workflow was to call the Dark Sky API and build a set of weather data over the past 2 years.  Using that data I set out to predict the weather given the features collected.
+The purpose of this repository is to investigate and predict the weather in Burlington, VT using various ensemble methods.  The basic workflow was to call the Dark Sky API and build a set of weather data over the past 2 years.  Using that data I set out to predict the weather given the features collected.  For a quick low level presentation watch this <a href="https://www.youtube.com/watch?v=6OS_cBi1Kbk&t=24s"> video </a> of the presentation.
 
 Table of Contents
 
@@ -8,7 +8,7 @@ Table of Contents
 
 <li> Ensemble & Time Series.ipynb - API call, supurvised learning workflow, bonus time series for more visual fun </li>
 
-<li> Informing a Move (1).pdf - Google slide presentation in PDF format  </li>
+<li> Informing a Move (1).pdf - Slide deck for presentation in PDF format  </li>
 
 <li> Prediction.png - A timeseries with tempurature predictions and and a 95% confidence interval </li>
 
